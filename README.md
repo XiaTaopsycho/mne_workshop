@@ -1,5 +1,7 @@
-MNE-Python example
+MNE-Python MNE-BIDS ERP工作坊
 
-This repo is created for open science workshop about MNE-python in Hangzhou 2019, all the materials in workshop can be found here.
+MNE-Python的安装 https://mne.tools/stable/install/mne_python.html
 
-Contributed by Xia Tao @HKU
+MNE-BIDS的安装 https://mne.tools/mne-bids/stable/index.html
+
+MNElab的安装 https://github.com/cbrnr/mnelab
